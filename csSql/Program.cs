@@ -1,7 +1,7 @@
 ﻿using csSql;
 using Microsoft.EntityFrameworkCore;
 using csSql.Entities;
-
+/////////////////////////////
 namespace csSql
 {
     public class AppDbContext : DbContext
